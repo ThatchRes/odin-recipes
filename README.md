@@ -1,1 +1,2 @@
-# odin-recipes
+# odin-recip
+This project is a recipe book website with step by step instruction through lists and different pages within the website. This project demonstrates skills in html through images, lists, paragraphs, and headings. This Project also demonstrates the use of git and github.
